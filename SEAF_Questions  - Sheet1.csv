@@ -1,0 +1,516 @@
+Question_id,Vector,Parameter,Par,Survey_Question,Question_type,Response_type,score_value,Survey Category
+1,Pay Equity,Approach to Advance Pay Equity,Commitment,"Does the company have a formal commitment or policy statement that addresses equal pay for
+work of equal value, aligned with the ILO Convention 100 on Equal Remuneration, and explicitly
+support pay equity?",Dichotomous,Yes/No,,
+2,Pay Equity,Approach to Advance Pay Equity,Communication,Does the company communicate its approach to pay equity to its employees annually?,Dichotomous,Yes/No,,
+3,Pay Equity,Approach to Advance Pay Equity,Implementation,"Does the company assess other financial benefits including insurance benefits, bonuses, and
+retirement contributions when reviewing compensation?",Dichotomous,Yes/No,,
+4,Pay Equity,Approach to Advance Pay Equity,Implementation,"Does the company have a process to identify any gender pay inequalities (e.g. gender pay gap
+audit)?",Dichotomous,Yes/No,,
+5,Pay Equity,Approach to Advance Pay Equity,Implementation,"For a company that offers an employee stock option plan, does the company provide equal  benefits and communicate employee stock option benefits to all employees? ",Dichotomous,Yes/No,,
+6,Pay Equity,Approach to Advance Pay Equity,Implementation,"Are jobs fully and fairly described, and work-value factors such as skill, level of responsibility and  working conditions consistently measured? ",Dichotomous,Yes/No,,
+7,Pay Equity,Approach to Advance Pay Equity,Implementation,"Does the company conduct pay equity analysis upon commencement, yearly, and on promotion  to analyze where gaps exist and either seek justification for any imbalances or work to eliminate  them? ",Dichotomous,Yes/No,,
+8,Pay Equity,Approach to Advance Pay Equity,Implementation,Does the company have clear criteria for rewards that link to the performance review process  and ask managers to justify their decisions on personal budget allocation?,Dichotomous,Yes/No,,
+9,Pay Equity,Approach to Advance Pay Equity,Implementation,"For the company that offers employee stock option plan for its employees, does the company  provide equal benefits and communicate employee stock option benefits to all employees? 
+",Filter,Yes/No/Not Applicable,,
+10,Pay Equity,Approach to Advance Pay Equity,Implementation,Does the company have specific policies and practices that provide employees a smooth return  to work after maternity and/or paternity leave including the same or equivalent position and  pay?,Dichotomous,Yes/No,,
+11,Pay Equity,Approach to Advance Pay Equity,Implementation,Does the company encourage collective bargaining? This could include peer networks among women employees and promoting peer-to-peer support helping women to build solidarity networks and collectively articulate their compensation priorities and needs.,Dichotomous,Yes/No,,
+12,Pay Equity,Approach to Advance Pay Equity,Implementation,Do employees have access to collective bargaining or unionization to address compensation-re lated inquiries or other practices?,Dichotomous,Yes/No,,
+13,Pay Equity,Approach to Advance Pay Equity,Measurement,"Does the company undertake an objective gender pay gap audit or evaluation by internal or
+external parties at least every five years to ensure jobs of equal value are remunerated equally?",Dichotomous,Yes/No,,
+14,Pay Equity,Approach to Advance Pay Equity,Accountability and Transparency,"Does the company have procedures in place to remediate
+pay inequalities identified?",Dichotomous,Yes/No,,
+15,Pay Equity,Approach to Advance Pay Equity,Accountability and Transparency,"Does the company report its progress and target
+improvement (if any) to the Board of Directors?",Dichotomous,Yes/No,,
+16,Pay Equity,Approach to Advance Pay Equity,Accountability and Transparency,Does the company publicly report its gender wage gap?,Dichotomous,Yes/No,,
+17,Pay Equity,Approach to Advance Pay Equity,Accountability and Transparency,"Is there a Compensation Committee and is it
+gender-balanced?",Dichotomous,Yes/No,,
+18,Pay Equity,Women/Men Compensation (Hourly),% calculation,Last Twelve Months Average Compensation for Hourly Workers (Women),User_Input,Integer,"[1,2,3,4,5]",
+19,Pay Equity,Women/Men Compensation (Hourly),% calculation,Last Twelve Months Average Compensation for Hourly Workers (Men),User_Input,Integer,,
+20,Pay Equity,Women/Men Compensation (Salaried),% calculation,Last Twelve Months Average Salary for Salaried Employees (Women),User_Input,Integer,,
+21,Pay Equity,Women/Men Compensation (Salaried),% calculation,Last Twelve Months Average Salary for Salaried Employees (Men),User_Input,Integer,"[1,2,3,4,5]",
+22,Pay Equity,Top 10% Compensated,% calculation,Number of women Top 10% Compensated Employees (Last Twelve Months Total Compensation),User_Input,Integer,"[1,2,3,4,5]",
+23,Pay Equity,Top 10% Compensated,% calculation,Number of men Top 10% Compensated Employees (Last Twelve Months Total Compensation),User_Input,Integer,"[1,2,3,4,5]",
+24,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Commitment,"Does the company prohibit inquiring about the candidate status (e.g., marital status, pregnancy or care responsibilities) in job applications or during the interview processes?",Dichotomous,Yes/No,,
+25,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Commitment,"Does the company offer a flexible work arrangement (e.g., remote work, a shift in working hours, an ability to leave early for occasional situations, and/or use of teleconference for meetings)?",Dichotomous,Yes/No,,
+26,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Commitment,"Does the company provide support for working parents such as employees’ family network, advice and referrals, and/or childcare subsidies?",Dichotomous,Yes/No,,
+27,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Commitment,"Does the company provide support to expecting, new and nursing parents, including retention policies after childbirth?",Dichotomous,Yes/No,,
+28,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Commitment,Does the company provide written contracts for all workers (both salaried and hourly) that can be referenced in case of a disagreement?,Dichotomous,Yes/No,,
+29,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Communication,Does the company communicate or train hiring managers on approaches to ensure non-dis- crimination in recruitment practices?,Dichotomous,Yes/No,,
+30,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Communication,Does the company communicate non-discrimination and equal opportunity policy to potential employees in job applications and at the time of hiring?,Dichotomous,Yes/No,,
+31,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Communication,Does the company set up mandatory training to train all the recruitment team to understand potential unconscious biases in recruitment and selection processes?,Dichotomous,Yes/No,,
+32,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Communication,Does the company advertise job vacancies through multiple media channels to ensure the greatest reach?,Dichotomous,Yes/No,,
+33,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Implementation,"Does the company forbid inquiring about the status or plans of the following in job applications or during interview processes: marriage, pregnancy or care responsibilities?",Dichotomous,Yes/No,,
+34,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Implementation,Does the company have due diligence and remediation processes in place to identify and address violations of recruitment policies that are based on gender discrimination?,Dichotomous,Yes/No,,
+35,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Implementation,Are there clear selection criteria that are free of gender bias?,Dichotomous,Yes/No,,
+36,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Implementation,Does the company take proactive steps to recruit women at all levels?,Dichotomous,Yes/No,,
+37,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Implementation,Does the company take proactive steps to recruit women in traditionally underrepresented roles?,Dichotomous,Yes/No,,
+38,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Implementation,Does the company ensure gender-balanced interview panels during hiring processes?,Dichotomous,Yes/No,,
+39,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Implementation,Does the company ensure that both women and men candidates are shortlisted for interviews?,Dichotomous,Yes/No,,
+40,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Implementation,Does the company review job descriptions and recruitment advertisements to ensure gender-neutral language and images are used?,Dichotomous,Yes/No,,
+41,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Implementation,Does the company track employee recruitment and reasons for turnover disaggregated by sex?,Dichotomous,Yes/No,,
+42,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Implementation,"Does the company have an exit interview in its human resources process? If so, are gender-related questions, for example, gender discrimination, included in the inter- view?",Dichotomous,Yes/No,,
+43,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Implementation,"Does the company employ tools or techniques to ensure fair hiring practices (e.g., blind evaluation, structured recruitment process,34 and/or diverse membership for selection committees?",Dichotomous,Yes/No,,
+44,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Measurement,Does the company regularly collect data on women’s participation in different levels within the organization?,Dichotomous,Yes/No,,
+45,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Measurement,Does the company track employee recruitment and reasons for turnover disaggregated by sex?,Dichotomous,Yes/No,,
+46,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Measurement,"Does the company keep data on applications received, candidates invited and candidates actually hired disaggregated by sex?",Dichotomous,Yes/No,,
+47,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Accountability and Transparency,Does the company conduct and review employee satisfaction surveys to evaluate the gender inclusivity of the organization?,Dichotomous,Yes/No,,
+48,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Accountability and Transparency,"Does the company set a target for gender representation, as well as record and review gender-related hiring profiles?",Dichotomous,Yes/No,,
+49,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Accountability and Transparency,Is there a named individual responsible for the company’s gender representation goal?,Dichotomous,Yes/No,,
+50,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Accountability and Transparency,Does the company share gender diversity performance with their employees?,Dichotomous,Yes/No,,
+51,Women's Workforce Participation,Approach to Gender Diversity in Recruitment,Accountability and Transparency,Does the company report its progress and target improvement (if any) to the Board of Directors?,Dichotomous,Yes/No,,
+52,Women's Workforce Participation,Women's Percentage of Salaried Employees,Ratio of salaried women employees,Last Twelve Months Number of Women Salaried Employees,User_input,Integer,"[1,2,3,4,5]",
+53,Women's Workforce Participation,Women's Percentage of Salaried Employees,Ratio of salaried women employees,Last Twelve Months Number of Total Salaried Employees,User_input,Integer,"[1,2,3,4,5]",
+54,Women's Workforce Participation,Women's Percentage of Hourly Employees,Ratio of hourly women employees,Last Twelve Months Number of Women Hourly Workers,User_input,Integer,,
+55,Women's Workforce Participation,Women's Percentage of Hourly Employees,Ratio of hourly women employees,Last Twelve Months Number of Total Hourly Workers,User_input,Integer,,
+56,Women's Workforce Participation,Women’s Turnover Ratio,Women Turnover,Last Twelve Months Number of Women (Employees Separated)/(LTM Average Number of Women Employees,User_input,Integer,,
+57,Women's Workforce Participation,Women’s Turnover Ratio,Women Turnover,Last Twelve Months Number of Men (Employees Separated)/(LTM Average Number of Men Employees,User_input,Integer,,
+58,Gender-Diverse Leadership & Governance,Women’s Board Representation,Ratio of women in the board,End of Year (EoY) Number of Women on the Board ,User_input,Integer,,
+59,Gender-Diverse Leadership & Governance,Women’s Board Representation,Ratio of women in the board,EoY Total Number of Board Members,User_input,Integer,,
+60,Gender-Diverse Leadership & Governance,Women Senior Management Representation,Ratio of women in senior mgmt,End of Year Number of Women’s Senior Management Members,User_input,Integer,,
+61,Gender-Diverse Leadership & Governance,Women Senior Management Representation,Ratio of women in senior mgmt,End of Year Total Number of Senior Management Members,User_input,Integer,,
+62,Gender-Diverse Leadership & Governance,Womens's Middle Management Representation,Ratio of women in middle mgmt,End of Year Number of Women’s Middle Management Representatives,User_input,Integer,"[1,2,3,4,5]",
+63,Gender-Diverse Leadership & Governance,Womens's Middle Management Representation,Ratio of women in middle mgmt,End of Year Total Number of Middle Management Representatives,User_input,Integer,,
+64,Gender-Diverse Leadership & Governance,Womens's Ownership,Ratio of women ownership,End of Year Women’s Ownership (including ESOP Exercised by Female Employee),User_input,Integer,"[1,2,3,4,5]",
+65,Gender-Diverse Leadership & Governance,Womens's Ownership,Ratio of women ownership,End of Year Overall Ownership (including ESOP Exercised by All Employees),User_input,Integer,,
+66,Gender-Diverse Leadership & Governance,Womens's Ownership,Ratio of stock owned by women Employees,Average Employee Stock Options Exercised by Women Employee,User_input/Filter,Integer/Not Aplicable,,
+67,Gender-Diverse Leadership & Governance,Womens's Ownership,Ratio of stock owned by women Employees,Average Employee Stock Options Exercised by All Employees,User_input/Filter,Integer/Not Aplicable,,
+68,Benefits & Professional Development,Apporach to Paid Parental Leave,Commitment,Does the company comply with the number of days provided to meet government require- ments or is it higher than the regulated level?,Dichotomous,Yes/No,,
+69,Benefits & Professional Development,Apporach to Paid Parental Leave,Commitment,Does the company provide parental leave for all genders?,Dichotomous,Yes/No,,
+70,Benefits & Professional Development,Apporach to Paid Parental Leave,Commitment,Does the company provide equal leave benefits to women and men employees?,Dichotomous,Yes/No,,
+71,Benefits & Professional Development,Apporach to Paid Parental Leave,Communication,Does the company communicate leave policies to its employees annually and notify employees of any changes?,Dichotomous,Yes/No,,
+72,Benefits & Professional Development,Apporach to Paid Parental Leave,Implementation,Does the company provide paid parental leave (and is this above what is required by law)?,Dichotomous,Yes/No,,
+73,Benefits & Professional Development,Apporach to Paid Parental Leave,Implementation,Does the company guarantee the right to return to work after parental leave to the same or equivalent position and pay?,Dichotomous,Yes/No,,
+74,Benefits & Professional Development,Apporach to Paid Parental Leave,Implementation,"Does the company actively encourage the use of paternity leave (e.g., communicating about the policy, actively promoting employees to take leave, providing examples of leaders taking paternity leave or setting a mandatory requirement to take leave)? ",Dichotomous,Yes/No,,
+75,Benefits & Professional Development,Apporach to Paid Parental Leave,Implementation,Does the company inform employees of significant changes at work while they are on maternity or paternity leave?,Dichotomous,Yes/No,,
+76,Benefits & Professional Development,Apporach to Paid Parental Leave,Implementation,Does the company provide facilities/rooms and paid time off for breastfeeding or pumping?,Dichotomous,Yes/No,,
+77,Benefits & Professional Development,Apporach to Paid Parental Leave,Measurement,"Does the company analyze the uptake rate of different forms of leave benefits, including parental leave, to determine if it is communicating such policies effectively and/or if the company has a culture that discourages taking such benefits?",Dichotomous,Yes/No,,
+78,Benefits & Professional Development,Apporach to Paid Parental Leave,Measurement,Does the company track the gender composition of employees taking family leave benefits?,Dichotomous,Yes/No,,
+79,Benefits & Professional Development,Apporach to Paid Parental Leave,Measurement,Does the company track the effectiveness of its approach to retain women after maternity leave?,Dichotomous,Yes/No,,
+80,Benefits & Professional Development,Apporach to Paid Parental Leave,Accountability and Transparency,Does the company have a review process for its leave policies and benchmark it against industry norms?,Dichotomous,Yes/No,,
+81,Benefits & Professional Development,Apporach to Paid Parental Leave,Accountability and Transparency,Does the company address deficiencies in policy and practice?,Dichotomous,Yes/No,,
+82,Benefits & Professional Development,Apporach to Paid Parental Leave,Accountability and Transparency,Does the company report its progress and target improvement (if any) to the Board of Directors?,Dichotomous,Yes/No,,
+83,Benefits & Professional Development,Apporach to Paid Parental Leave,Accountability and Transparency,Does the company report publicly to company stakeholders and the Board on the number of employees that took parental leave and the return to work and retention rates?,Dichotomous,Yes/No,,
+84,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Commitment,Does the company have a stand-alone policy or a commitment embedded in a broader corporate policy that recognizes the different health needs of women and men?,Dichotomous,Yes/No,,
+85,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Commitment,Does the company equally provide healthcare insurance benefits for all employees?,Dichotomous,Yes/No,,
+86,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Commitment,"Does the company provide critical illness or disability insurance benefits? If so, is it equally provided for men and women?",Dichotomous,Yes/No,,
+87,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Commitment,Does the company provide health coverage to the employee’s spouse or domestic partner and family members?,Dichotomous,Yes/No,,
+88,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Communication,Does the company communicate its insurance policies to its employees and notify employees of any changes?,Dichotomous,Yes/No,,
+89,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Implementation,"Does the company provide options for private insurance packages that cover the specific health needs of women (e.g., gynecology, maternal health, reproductive health)?",Dichotomous,Yes/No,,
+90,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Implementation,"Does the company provide vital information about the issue of violence against women, including helplines, crisis centers and contacts for women’s shelters and specialized organizations that offer support?",Dichotomous,Yes/No,,
+91,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Implementation,"Does the company provide onsite health services or establish linkages with local health clinics and service providers for referral purposes that cover the specific health needs of women (including reproductive, maternal and newborn health)?",Dichotomous,Yes/No,,
+92,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Implementation,"Does the company coordinate onsite mobile clinics or screenings for employees, with health providers that are trained on women's health issues and needs?",Dichotomous,Yes/No,,
+93,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Implementation,"Does the company post health-related information in public areas in line with the local or national context, especially when there are public health outbreaks that can disproportionally impact women?",Dichotomous,Yes/No,,
+94,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Implementation,Does the company consult with male and female employees to determine if health services and benefits meet employee needs?,Dichotomous,Yes/No,,
+95,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Implementation,Do the insurance benefits provided by the company include preventive care for women?,Dichotomous,Yes/No,,
+96,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Implementation,"Does the company continuously assess risks regarding adverse impacts on the health and well-being of employees, including their sexual and reproductive health and right as well as mitigation plans?",Dichotomous,Yes/No,,
+97,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Measurement,Does the company conduct employee satisfaction surveys that include health care benefits?,Dichotomous,Yes/No,,
+98,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Measurement,Does the company review its insurance policies and practices and benchmark these against industry norms?,Dichotomous,Yes/No,,
+99,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Measurement,"Does the company request feedback from third-party experts, such as NGOs or other independ- ent organizations specialized in women’s health needs, who could identify any potential gaps and areas for improvement?",Dichotomous,Yes/No,,
+100,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Measurement,"Does the company track the types of health services provided at the workplace and collect infor- mation on who is using the services, disaggregated by sex?",Dichotomous,Yes/No,,
+101,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Accountability and Transparency,Does the company actively address deficiencies?,Dichotomous,Yes/No,,
+102,Benefits & Professional Development,Approach to Health Insurance Policies and Practices,Accountability and Transparency,Does the company report its progress and target improvement (if any) to the Board of Directors?,Dichotomous,Yes/No,,
+103,Benefits & Professional Development,Approach to Promote Women's Professional Developmanet and Training,Commitment,Does the company equally provide training opportunities for all of its employees?,Dichotomous,Yes/No,,
+104,Benefits & Professional Development,Approach to Promote Women's Professional Developmanet and Training,Commitment,Is access to training and career development equal for men and women?,Dichotomous,Yes/No,,
+105,Benefits & Professional Development,Approach to Promote Women's Professional Developmanet and Training,Communication,Does the company communicate its training program to all of its employees?,Dichotomous,Yes/No,,
+106,Benefits & Professional Development,Approach to Promote Women's Professional Developmanet and Training,Communication,Does the company communicate its professional development and training programs in such a way that women feel comfortable pursuing the offer?,Dichotomous,Yes/No,,
+107,Benefits & Professional Development,Approach to Promote Women's Professional Developmanet and Training,Implementation,Are the trainings relevant to their current occupations?,Dichotomous,Yes/No,,
+108,Benefits & Professional Development,Approach to Promote Women's Professional Developmanet and Training,Implementation,Are the trainings relevant to each individual employee’s career path?,Dichotomous,Yes/No,,
+109,Benefits & Professional Development,Approach to Promote Women's Professional Developmanet and Training,Implementation,Does the company offer mentoring program(s) with specific support for women?,Dichotomous,Yes/No,,
+110,Benefits & Professional Development,Approach to Promote Women's Professional Developmanet and Training,Implementation,Does the company offer leadership coaching with specific support for women?,Dichotomous,Yes/No,,
+111,Benefits & Professional Development,Approach to Promote Women's Professional Developmanet and Training,Implementation,"Does the company offer development trainings, rotational programs and educational opportu- nities with specific support for women?",Dichotomous,Yes/No,,
+112,Benefits & Professional Development,Approach to Promote Women's Professional Developmanet and Training,Implementation,Does the company offer specific programs to build the pipeline of qualified women for man- agement/ senior leadership level positions?,Dichotomous,Yes/No,,
+113,Benefits & Professional Development,Approach to Promote Women's Professional Developmanet and Training,Implementation,Does the company have measures in place to ensure professional development programs are scheduled at times that accommodate the scheduling needs of both men and women (taking into consideration care responsibilities)?,Dichotomous,Yes/No,,
+114,Benefits & Professional Development,Approach to Promote Women's Professional Developmanet and Training,Measurement,Does the company have time-bound and measurable goals and targets to build a pipeline of qualified women for management-level positions?,Dichotomous,Yes/No,,
+115,Benefits & Professional Development,Approach to Promote Women's Professional Developmanet and Training,Measurement,Does the company set goals and objectives for trainings?,Dichotomous,Yes/No,,
+116,Benefits & Professional Development,Approach to Promote Women's Professional Developmanet and Training,Measurement,"Does the company collect, analyze and monitor sex-disaggregated data on the percentage of employees participating in these programs, at least annually?",Dichotomous,Yes/No,,
+117,Benefits & Professional Development,Approach to Promote Women's Professional Developmanet and Training,Accountability and Transparency,Does the company allow employees to provide feedback to improve the training programs?,Dichotomous,Yes/No,,
+118,Benefits & Professional Development,Approach to Promote Women's Professional Developmanet and Training,Accountability and Transparency,"Does the company report publicly to company stakeholders on the average number of training hours, disaggregated by sex and employee level?",Dichotomous,Yes/No,,
+119,Benefits & Professional Development,Approach to Promote Women's Professional Developmanet and Training,Accountability and Transparency,"Does the company report to the Board of Directors on the average number of training hours, disaggregated by sex and employee level?",Dichotomous,Yes/No,,
+120,Benefits & Professional Development,Approach to Performance Reviews Policies & Promotion Practices,Commitment,Does the company have clear criteria for rewards that are free of gender bias and link to the performance review process?,Dichotomous,Yes/No,,
+121,Benefits & Professional Development,Approach to Performance Reviews Policies & Promotion Practices,Commitment,Does the company ask managers to justify their decisions on personal budget allocation?,Dichotomous,Yes/No,,
+122,Benefits & Professional Development,Approach to Performance Reviews Policies & Promotion Practices,Commitment,"Does the company have a structured approach, guidelines and pre-determined criteria for performance evaluation?",Dichotomous,Yes/No,,
+123,Benefits & Professional Development,Approach to Performance Reviews Policies & Promotion Practices,Commitment,Does the company support a broad variety of leadership styles?,Dichotomous,Yes/No,,
+124,Benefits & Professional Development,Approach to Performance Reviews Policies & Promotion Practices,Communication,Is access to performance expectations or key performance indicators (KPI) available to all employees?,Dichotomous,Yes/No,,
+125,Benefits & Professional Development,Approach to Performance Reviews Policies & Promotion Practices,Communication,Does the company enhance the visibility of a women professional role model?,Dichotomous,Yes/No,,
+126,Benefits & Professional Development,Approach to Performance Reviews Policies & Promotion Practices,Implementation,Do employees have access to their past career progress and understand areas of development needed for promotion to the next level?6,Dichotomous,Yes/No,,
+127,Benefits & Professional Development,Approach to Performance Reviews Policies & Promotion Practices,Implementation,Does the company regularly promote gender discrimination awareness and train its employees to minimize unconscious gender bias?,Dichotomous,Yes/No,,
+128,Benefits & Professional Development,Approach to Performance Reviews Policies & Promotion Practices,Implementation,Is there gender balance in the decision-making body overseeing promotion processes?,Dichotomous,Yes/No,,
+129,Benefits & Professional Development,Approach to Performance Reviews Policies & Promotion Practices,Implementation,Is there a process to ensure there is a shortlist of suitable candidates (disaggregated by sex) before the decision for promotions is made?,Dichotomous,Yes/No,,
+130,Benefits & Professional Development,Approach to Performance Reviews Policies & Promotion Practices,Implementation,Does the company actively seek to employ women in managerial and senior-level positions?,Dichotomous,Yes/No,,
+131,Benefits & Professional Development,Approach to Performance Reviews Policies & Promotion Practices,Measurement,Does the company collect sex-disaggregated data on the percentage of employees shortlisted and promoted?,Dichotomous,Yes/No,,
+132,Benefits & Professional Development,Approach to Performance Reviews Policies & Promotion Practices,Accountability and Transparency,Does the company assess performance review and promotional procedures and docu- ments to eliminate pro-male or pro-childless criteria and competencies?,Dichotomous,Yes/No,,
+133,Benefits & Professional Development,Approach to Performance Reviews Policies & Promotion Practices,Accountability and Transparency,Does the company report its progress and target improvement (if any) to the Board of Directors?,Dichotomous,Yes/No,,
+134,Benefits & Professional Development,Approach to Performance Reviews Policies & Promotion Practices,Accountability and Transparency,"Does the company report publicly to company stakeholders on the total number of women, as compared to men, in management and senior leadership level positions?",Dichotomous,Yes/No,,
+135,Benefits & Professional Development,Approach to Performance Reviews Policies & Promotion Practices,Accountability and Transparency,"Does the company report to the Board of Directors on the total number of women, as compared to men, in management and senior leadership level positions?",Dichotomous,Yes/No,,
+136,Benefits & Professional Development,Approach to Performance Reviews Policies & Promotion Practices,Accountability and Transparency,"Does the company report publicly to company stakeholders on the total number of employees promoted in the last year, disaggregated by sex?",Dichotomous,Yes/No,,
+137,Benefits & Professional Development,Approach to Performance Reviews Policies & Promotion Practices,Accountability and Transparency,"Does the company report to the Board of Directors on the total number of employees promoted in the last year, disaggregated by sex?",Dichotomous,Yes/No,,
+138,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Commitment,Does the company have an environmental policy?,Dichotomous,Yes/No,,
+139,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Commitment,"If so, does the company consider the environmental impact that could potentially affect men and women differently?",Filter,Yes/No/Not Applicable,,
+140,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Commitment,Has the company been subject to any environmental lawsuits or cited for environmental violations?,Dichotomous,Yes/No,,
+141,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Communication,Does the company clearly communicate its environmental policies to all employees?,Dichotomous,Yes/No,,
+142,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Implementation,"Does the company ensure equal participation of women and men in community consultations at times in which women can attend, bearing in mind home care and other responsibilities?",Dichotomous,Yes/No,,
+143,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Implementation,Does the company have transparent community grievance and resolution mechanisms in place?,Dichotomous,Yes/No,,
+144,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Implementation,Does the company assess differential impacts on men and women during environmental impact assessments?,Dichotomous,Yes/No,,
+145,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Implementation,Does the company provide gender-sensitive training to facilitators of community consultations?,Dichotomous,Yes/No,,
+146,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Implementation,"Does the company have a policy to continuously assess environmental risks regarding its adverse impact on the health and well-being of employees, its customers and/or the population in the area where it operates as well as mitigation plans, especially those that will disproportionately create an impact on women?",Dichotomous,Yes/No,,
+147,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Implementation,Does the company have equal women and men representation on any environmental policy-making body?,Dichotomous,Yes/No,,
+148,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Implementation,Does the company have any policies around whistleblowing and subsequent retaliation to whistleblowers?,Dichotomous,Yes/No,,
+149,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Measurement,Does the company track stakeholder engagement and participation in community consultations disaggregated by sex?,Dichotomous,Yes/No,,
+150,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Measurement,Does the company measure and track environmental claims based on sex-disaggregated data?,Dichotomous,Yes/No,,
+151,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Measurement,Does the company document all environmental incidents and their potential and actual impact on women and men?,Dichotomous,Yes/No,,
+152,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Accountability and Transparency,Does the company report its progress and target improvement (if any) to the Board of Direc- tors?,Dichotomous,Yes/No,,
+153,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Accountability and Transparency,"Does the company report publicly to company stakeholders on the percentage of operations in local community engagement, impact assessments and/or development programs (including reporting on the use of gender impact assessments and participatory community consultation processes that include vulnerable groups)?",Dichotomous,Yes/No,,
+154,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Accountability and Transparency,"Does the company report to the Board of Directors on the percentage of operations with local community engagement, impact assessments and/or development programs (including reporting on the use of gender impact assessments and participatory community consultation processes that include vulnerable groups)?",Dichotomous,Yes/No,,
+155,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Accountability and Transparency,Does the company report to the Board of Directors all environmental claims based on sex-disag- gregated data?,Dichotomous,Yes/No,,
+156,Safe and Healthy Workplace Environment,Approach to Environmental Policies,Accountability and Transparency,"Does the company report to the Board of Directors in a timely and complete manner all envi- ronmental incidents and their potential and actual impact on women and men, providing regular information on action taken, remedies and future prevention?",Dichotomous,Yes/No,,
+157,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Commitment,Does the company have a stand-alone policy or a commitment embedded in a broader corporate policy that states zero tolerance of sexual harassment and all forms of violence at work (including while on business-related travel and in client entertainment) for employees and subcontracted workers?,Dichotomous,Yes/No,,
+158,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Commitment,Does the company develop a clear Sexual Harassment Policy and commitment to preventing and responding to gender-based violence?,Dichotomous,Yes/No,,
+159,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Commitment,Does the Board of Directors establish and track Key Performance Indicators concerning gender equality and women’s economic empowerment?,Dichotomous,Yes/No,,
+160,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Communication,"Does the company effectively communicate and raise awareness about its confidential complaints mechanisms, including whistleblower protection, among employees, suppliers, customers and community members as well as the general public? Is the complaints mechanism transparent, safe and accessible to everyone?",Dichotomous,Yes/No,,
+161,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,"Does the company provide annual training on zero tolerance of all forms of violence to all employees, including sexual harassment, and engaging in acts of sexual exploitation of women and girls while on business travel?",Dichotomous,Yes/No,,
+162,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,"Does the company have confidential grievance, resolution, and non-retaliation mechanisms in place which are open to employees, community members and the supply chain?",Dichotomous,Yes/No,,
+163,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,"Does the company have confidential grievance, resolution and non-retaliation mechanisms in place which are open to employees, community members and the supply chain?",Dichotomous,Yes/No,,
+164,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,Does the company provide confidential support for victims of GBV?,Dichotomous,Yes/No,,
+165,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,Does the company require gender-sensitive training for security personnel (including contracted staff) on procedures to respond to complaints of gender-based violence or harassment?,Dichotomous,Yes/No,,
+166,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,"Does the company have a process in place to monitor/ audit business travel and client entertain- ment expenses to detect inappropriate business expenses such as company funds being used to sexually exploit women and girls or adult ""entertainment"" involving nudity or lewd behavior?",Dichotomous,Yes/No,,
+167,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,"Does the company make sure its employees understand that the company does not approve of business travel and client entertainment related to the sexual exploitation of women and girls, including visits to strip clubs, redlight districts, and arrangements for transactional sex?",Dichotomous,Yes/No,,
+168,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,"Does the company’s policy for business partners (e.g., gifts & invitations policy) make explicit that invitations and gifts related to the sex industry are against the company’s policy?",Dichotomous,Yes/No,,
+169,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,Does the company have an investigation panel? ,Dichotomous,Yes/No,,
+170,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,"If so, is the investigation panel gender-balanced?",Filter,Yes/No/ Not Applicable,,
+171,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,Does the company develop a reporting procedure to confidentially report violent or inappropri- ate behavior?,Dichotomous,Yes/No,,
+172,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,Does the company implement mediation or other measures to follow through with concrete consequences for incidents that occur within the workplace?,Dichotomous,Yes/No,,
+173,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,Does the company develop training and awareness-raising activities around gender equality and gender-based violence?,Dichotomous,Yes/No,,
+174,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,Does the company implement monitoring and evaluating policies/actions/measures to tackle gender-based violence?,Dichotomous,Yes/No,,
+175,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,Is the company aware of the ILO Convention Ending Violence and Harassment in the World of Work?,Dichotomous,Yes/No,,
+176,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,Have actions been put into place with regard to the International ILO Convention Ending Violence and Harassment in the World of Work?,Dichotomous,Yes/No,,
+177,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,"For organizations that have any engagement with children, does the company have a child protection policy in place as well?",Filter,Yes/No/ Not Applicable,,
+178,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,Does the company develop ways of addressing gender-based violence outside of the organization in the surrounding community?,Dichotomous,Yes/No,,
+179,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Implementation,"Are specific clauses related to sexual harassment, GBV and sexual misconduct included in the company’s supplier code of conduct?",Dichotomous,Yes/No,,
+180,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Measurement,Does the company conduct a gender audit of all policies?,Dichotomous,Yes/No,,
+181,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Measurement,Does the company monitor and audit business travel and client entertainment expenses to detect and ensure no inappropriate behavior?,Dichotomous,Yes/No,,
+182,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Measurement,"Does the company periodically monitor and evaluate policies, actions and measures to tackle GBV?",Dichotomous,Yes/No,,
+183,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Measurement,Does the company monitor and evaluate all complaints and their specific gender dimension?,Dichotomous,Yes/No,,
+184,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Measurement,"Does the company measure the effectiveness of communication and training efforts, e.g., through surveys and diagnostics to assess employees’ awareness of the policy, their attitudes towards sexual misconduct and the extent to which they observe that the commitment is actually lived up to by company representatives and embedded in the company’s culture?",Dichotomous,Yes/No,,
+185,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Accountability and Transparency,"Does the company report its progress and target improvements (if any) to the Board of
+Directors?",Dichotomous,Yes/No,,
+186,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Accountability and Transparency,"Does the company have any policy and complaint mechanism around whistleblowing and
+subsequent retaliation to whistleblowers, and does it extend across the supply chain?",Dichotomous,Yes/No,,
+187,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Accountability and Transparency,"Does the company communicate publicly, or to relevant company stakeholders, the
+company's approach to ensuring an environment free of violence?",Dichotomous,Yes/No,,
+188,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Accountability and Transparency,"Does the company communicate to the Board of Directors the company's approach to
+ensuring an environment free of violence?",Dichotomous,Yes/No,,
+189,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Accountability and Transparency,"Does the company communicate its zero tolerance policy towards sexual misconduct in a
+credible way, so that all stakeholders (including business partners and surrounding communities)
+are made aware of it? Does the company develop policies and measures to support gender
+equality in the workplace?",Dichotomous,Yes/No,,
+190,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Accountability and Transparency,"Does the company punish an employee who violates the Sexual Harassment Policy, including
+business travel-related aspects and all other aspects mentioned above?",Dichotomous,Yes/No,,
+191,Safe and Healthy Workplace Environment,Approach to Sexual Harassment and Gender-based Violence in the Workplace,Accountability and Transparency,"Does the company develop a network of external support organizations for victims and
+survivors of gender-based violence (e.g., social services, counseling, police, etc.)?",Dichotomous,Yes/No,,
+192,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Commitment,Does the company follow health and safety regulations and related requirements?,Dichotomous,Yes/No,,
+193,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Commitment,"Does the company commit to following international standards or best practices beyond
+compliance with national minimum requirements?",Dichotomous,Yes/No,,
+194,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Communication,"Does the company provide gender-sensitive health talks on issues related to occupational
+health and safety, including sexual and reproductive health and rights, and nutrition to
+support health and a decent work environment?",Dichotomous,Yes/No,,
+195,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,"Does the company ensure adequate and safe toilet facilities for women that accommodate
+hygiene needs such as clean water and soap and disposal methods for feminine hygiene
+products?",Dichotomous,Yes/No,,
+196,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,"Does the company regularly check company grounds to ensure they are adequately lit and
+secure?",Dichotomous,Yes/No,,
+197,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,Does the company provide breastfeeding/pumping rooms that are clean and safe?,Dichotomous,Yes/No,,
+198,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,"Does the company provide access to transportation to and from work and while on business
+travel (including in environments where public transport is unsafe or unavailable)?",Dichotomous,Yes/No,,
+199,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,"Does the company provide training to staff on ergonomics, exposure to hazardous materials,
+and other occupational risks, taking into account the differential biological impacts of
+health and safety on women and men?",Nominal,Yes/No/Not Applicable,,
+200,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,"Does the company provide personal protective equipment for both men and women, especially
+taking into consideration the needs of pregnant and nursing women?",Nominal,Yes/No/Not Applicable,,
+201,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,"Does the company consult with men and women employees to determine if health, safety
+and hygiene services and protections meet employee needs?",Nominal,Yes/No/Not Applicable,,
+202,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,"Does the company adhere to adequate supervision and physical safety standards for
+women in the workplace?",Dichotomous,Yes/No,,
+203,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,Does the company have a smoke-free workplace policy?,Dichotomous,Yes/No,,
+204,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,"Does the company offer equal access to occupational health services and healthcare for all
+workers?",Dichotomous,Yes/No,,
+205,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,"Is there an employee training for occupational health and safety standards and procedures
+for all workers?",Dichotomous,Yes/No,,
+206,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,"Has the company regularly promoted awareness of potential occupational risks to its
+employees?",Dichotomous,Yes/No,,
+207,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,"Has the company regularly promoted awareness of potential occupational risks to its
+employees?",Dichotomous,Yes/No,,
+208,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,"Does the company provide private and hygienic facilities for new mothers to be able to
+breastfeed their babies or pump breastmilk at work?",Dichotomous,Yes/No,,
+209,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,"Does the company have a policy to continuously assess risks regarding its adverse impact
+on the health and well-being of employees, including their sexual and reproductive health
+and rights as well as mitigation plans?",Dichotomous,Yes/No,,
+210,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,"For organizations that have any engagement with children, does the company have a child
+protection policy in place as well?",Dichotomous,Yes/No,,
+211,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,"Does the company offer maternity protection to ensure no workplace hazards, including
+chemical, biological and physical hazards (i.e., uses of pesticides, metals, dyes and solvents,
+noise and vibration, radiation or infectious diseases) for pregnant and breastfeeding
+women?",Dichotomous,Yes/No,,
+212,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,"Does the company impose appropriate safety practices for women employees on business
+travel such as traveling modes and choices of accommodations?",Dichotomous,Yes/No,,
+213,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,"Does the company ensure employees have access to secure transportation to and from the
+workplace?",Dichotomous,Yes/No,,
+214,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Implementation,"Does the company encourage collective organizing and support networks? This could
+include peer networks among women employees promoting peer-to-peer support and
+distribution of key information around sexual and reproductive rights, helping women to
+build solidarity networks and collectively articulate their priorities and needs.",Dichotomous,Yes/No,,
+215,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Measurement,"Has the company developed occupational health and safety indicators (e.g., number of
+occupational injuries and diseases, and the number of workers involved and workdays
+lost)?",Dichotomous,Yes/No,,
+216,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Measurement,"Does the company track health and safety incidents, disaggregated by sex?",Dichotomous,Yes/No,,
+217,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Measurement,"Does the company regularly conduct health and safety audits, including independent ones,
+in an effort to prevent incidents, etc.?",Dichotomous,Yes/No,,
+218,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Accountability and Transparency,"Does the company involve women in decision making on its employees’ occupational
+health and safety?",Dichotomous,Yes/No,,
+219,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Accountability and Transparency,"Does the company report its progress and target improvements (if any) to the Board of
+Directors?",Dichotomous,Yes/No,,
+220,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Accountability and Transparency,"Does the company report publicly to its stakeholders any health and safety incidents,
+disaggregated by sex?",Dichotomous,Yes/No,,
+221,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Accountability and Transparency,"Does the company report to the Board of Directors health and safety incidents, disaggre-
+gated by sex?",Dichotomous,Yes/No,,
+222,Safe and Healthy Workplace Environment,Approach to Occupational Health and Safety,Accountability and Transparency,"Has the company designated an occupational safety officer or its equivalent to oversee the
+operations of the company?",Dichotomous,Yes/No,,
+223,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Commitment,"Does the company have diversity and inclusion initiatives, including policies and specific
+targets?",Dichotomous,Yes/No,,
+224,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Commitment,"Has the company released a public written statement or commitment outlining the company’s
+commitment to gender equality and women’s empowerment (e.g., WEPs CEO Statement of
+Support)?",Dichotomous,Yes/No,,
+225,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Commitment,"Has the company circulated an internal communication(s) and/or informal acknowledgment of
+the relevance of gender equality and women’s empowerment?",Dichotomous,Yes/No,,
+226,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Communication,"Does the company communicate its commitment to build a diverse and inclusive culture to
+all employees and notify employees of any changes?",Dichotomous,Yes/No,,
+227,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Communication,Does the company share gender metrics with their employees?117,Dichotomous,Yes/No,,
+228,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Communication,"Does the company provide a channel for employees to give feedback on diversity and inclusion
+related issues in the workplace?",Dichotomous,Yes/No,,
+229,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,"Does the company have an organization-wide gender equality strategy that identifies
+specific priority areas where further improvement can be made?",Dichotomous,Yes/No,,
+230,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,Does the company have a policy on diversity and inclusion in place?,Dichotomous,Yes/No,,
+231,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,"Does the company have specific diversity and inclusion targets in place (e.g., for internal
+positions across hierarchy levels as well as along the value chain: customers/business
+segments, suppliers, etc.)",Dichotomous,Yes/No,,
+232,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,"Does the company have an organization-wide gender equality strategy that includes a business
+case or rationale for investment in gender equality?",Dichotomous,Yes/No,,
+233,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,"Does the company have an organization-wide gender equality strategy that articulates the
+link between gender equality and other areas of corporate sustainability and business
+performance?",Dichotomous,Yes/No,,
+234,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,"Does the company have an organization-wide gender equality strategy that was developed
+in consultation with employees?",Dichotomous,Yes/No,,
+235,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,"Does the company have an organization-wide gender equality strategy that was developed
+in consultation with external stakeholders?",Dichotomous,Yes/No,,
+236,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,"Does the company have an organization-wide gender equality strategy this is communicated to
+all employees?",Dichotomous,Yes/No,,
+237,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,"Does the company advocate for gender equality and women's empowerment and promote
+this commitment in public forums?",Dichotomous,Yes/No,,
+238,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,Is there a program to promote the role model for women employees in the company?,Dichotomous,Yes/No,,
+239,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,"Does the company create support groups or networks for women employees and effective-
+ly engage men on issues of masculinity and gender equality?",Dichotomous,Yes/No,,
+240,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,"Does the company engage in gender diversity awareness campaigns or initiatives in the
+community?",Dichotomous,Yes/No,,
+241,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,Does the company provide onsite childcare services or similar childcare support?,Dichotomous,Yes/No,,
+242,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,Does the company promote a flexible schedule and work environment?,Dichotomous,Yes/No,,
+243,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,Does the company promote inclusivity to all levels of its management?,Dichotomous,Yes/No,,
+244,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,"Does the company rotate office duty to ensure that those shared duties are not assigned to
+only women?",Dichotomous,Yes/No,,
+245,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,"Is the company aware of the Convention on the Elimination of All Forms of Discrimination
+Against Women?",Dichotomous,Yes/No,,
+246,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,Does the company include diversity and inclusion in performance conversations?,Dichotomous,Yes/No,,
+247,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Implementation,Does the company conduct an inclusion training program for its employees?119,Dichotomous,Yes/No,,
+248,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Measurement,"Does the company have time-bound, measurable goals and targets in their strategy?",Dichotomous,Yes/No,,
+249,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Measurement,"Does the company actively measure and track progress and steer towards greater diversity
+and inclusion?",Dichotomous,Yes/No,,
+250,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Measurement,"Does the company have formal accountability mechanisms for progress and outcomes on
+said strategy?",Dichotomous,Yes/No,,
+251,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Accountability and Transparency,"Does the company report its progress and target improvements (if any) to the Board of
+Directors?",Dichotomous,Yes/No,,
+252,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Accountability and Transparency,"Does the company report its progress and target improvements (if any) to the public (e.g.,in its annual report)?",Dichotomous,Yes/No,,
+253,Safe and Healthy Workplace Environment,Approach to Promote Gender Equality and Women’s Empowerment,Accountability and Transparency,"Does the company have any policies around whistleblowing and subsequent retaliation to
+whistleblowers?",Dichotomous,Yes/No,,
+254,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Commitment,"Does the company set up standard policies and procedures for its procurement and distribution
+processes?",Dichotomous,Yes/No,,
+255,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Commitment,"Does the company have an explicit commitment to integrate women-owned and -led
+businesses into its supply chain?",Dichotomous,Yes/No,,
+256,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Commitment,Does the company review its policies and processes to ensure no gender discrimination against men or women exists in its supply chains?,Dichotomous,Yes/No,,
+257,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Communication,"Does the company have a stand-alone policy or a commitment embedded in a broader
+corporate policy that includes proactively sourcing from women-owned or -led business?",Dichotomous,Yes/No,,
+258,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Communication,"Does the company have a supplier or vendor code of conduct that explicitly states support
+for gender equality as well as requires specific gender equality related policies and practices?",Dichotomous,Yes/No,,
+259,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Implementation,"Does the company encourage suppliers and vendors to have a gender equality strategy or
+policy that addresses nondiscrimination, equal pay for equal work and the health and
+safety of women workers?",Dichotomous,Yes/No,,
+260,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Implementation,"Does the company have robust due diligence or assessment processes for suppliers and
+vendors to ensure they are not causing or contributing to adverse human rights impacts,
+particularly for women and girls?",Dichotomous,Yes/No,,
+261,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Implementation,"Does the company undertake due diligence or assessments to identify human trafficking in
+its supply chain? Is there a requirement for suppliers to have a complaints mechanism and
+whistleblower protection in place?",Dichotomous,Yes/No,,
+262,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Implementation,Does the company incorporate gender equality expectations in supplier communications?,Dichotomous,Yes/No,,
+263,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Implementation,"Does the company offer independently, or as part of a business association, ongoing capacity
+building to suppliers and vendors to support continuous improvement on gender equality?",Dichotomous,Yes/No,,
+264,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Implementation,"Does the company encourage and work with suppliers to adopt policies and practices that support
+quality health and hygiene for both men and women?",Dichotomous,Yes/No,,
+265,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Implementation,"Does the company work with suppliers to develop a corrective action plan if gender equality risks
+or challenges arise?",Dichotomous,Yes/No,,
+266,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Implementation,"Does the company have outreach initiatives to communicate procurement opportunities to
+women-owned or -led businesses?",Dichotomous,Yes/No,,
+267,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Implementation,Does the company use databases to identify women-owned businesses in the purchasing process?,Dichotomous,Yes/No,,
+268,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Implementation,"Does the company set procurement targets and/or goals for the amount and percentage spent
+with women-owned businesses?",Dichotomous,Yes/No,,
+269,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Implementation,Does the company participate in trade fairs that engage gender-diverse suppliers?,Dichotomous,Yes/No,,
+270,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Implementation,Does the company provide training to women to complete formal bid processes?,Dichotomous,Yes/No,,
+271,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Implementation,"Does the company apply a supplier diversity program to its procurement and distribution
+processes?",Dichotomous,Yes/No,,
+272,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Implementation,Does the company collect sex-disaggregated information from its suppliers?,Dichotomous,Yes/No,,
+273,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Implementation,"Does the company collect information to ensure that its suppliers adopt anti-sexual harassment
+(and any gender discrimination) policy, and have no involvement with human trafficking and
+slavery?",Dichotomous,Yes/No,,
+274,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Implementation,Is there a different pricing strategy for men and women suppliers?,Dichotomous,Yes/No,,
+275,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Measurement,"Does the company track the percentage spent with women-owned or -led businesses?
+",Dichotomous,Yes/No,,
+276,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Measurement,"Does the company encourage suppliers to set and measure targets and benchmarks on
+gender equality?
+",Dichotomous,Yes/No,,
+277,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Measurement,"Does the company conduct regular audits to assess and measure suppliers’ compliance
+with the aforementioned human rights and gender equality requirements?
+",Dichotomous,Yes/No,,
+278,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Measurement,"Does the company measure and evaluate complaints related to incidents in its supply
+chains and their gender dimensions?",Dichotomous,Yes/No,,
+279,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Accountability and Transparency,"Does the company report publicly to company stakeholders on percentage spent with
+women-owned or -led businesses?",Dichotomous,Yes/No,,
+280,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Accountability and Transparency,"Does the company report to the Board of Directors on the percentage spent with wom-
+en-owned or -led businesses?",Dichotomous,Yes/No,,
+281,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Accountability and Transparency,"Does the company make its supply chain transparent to the public?
+",Dichotomous,Yes/No,,
+282,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Accountability and Transparency,"Does the company include gender equality criteria in standard auditing protocols, supplier
+scorecards or other supply chain management tools?",Dichotomous,Yes/No,,
+283,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Accountability and Transparency,Does the company include gender-specific questions in supplier self-assessments?,Dichotomous,Yes/No,,
+284,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Accountability and Transparency,"Does the company regularly conduct supplier audits and communicate the results?
+",Dichotomous,Yes/No,,
+285,"Women-Powered
+Value Chains",Approach to Promote Gender Diversity in Management of Supplier Workforce,Accountability and Transparency,"Does the company consider sex-disaggregated information as a performance metric within
+its supply chains?",Dichotomous,Yes/No,,
+286,"Women-Powered
+Value Chains",Approach to Target Women Customers,Commitment,"Do products and services provided by the company consider the needs of men and women
+customers?",Dichotomous,Yes/No,,
+287,"Women-Powered
+Value Chains",Approach to Target Women Customers,Communication,"Does the company encourage customers of all genders to provide feedback on products
+and services?",Dichotomous,Yes/No,,
+288,"Women-Powered
+Value Chains",Approach to Target Women Customers,Communication,Does the company develop guidelines for customer services and support teams?,Dichotomous,Yes/No,,
+289,"Women-Powered
+Value Chains",Approach to Target Women Customers,Implementation,"Does the company review marketing materials and tactics to protect against negative
+gender stereotypes?",Dichotomous,Yes/No,,
+290,"Women-Powered
+Value Chains",Approach to Target Women Customers,Implementation,Does the company have a marketing strategy tailored to women as a customer segment?,Dichotomous,Yes/No,,
+291,"Women-Powered
+Value Chains",Approach to Target Women Customers,Implementation,"Does the company have a marketing approach that seeks to challenge existing gender
+norms and promote positive images of women and girls?",Dichotomous,Yes/No,,
+292,"Women-Powered
+Value Chains",Approach to Target Women Customers,Implementation,"Does the company consult with focus groups to ensure marketing approaches are not
+perpetuating gender stereotypes?",Dichotomous,Yes/No,,
+293,"Women-Powered
+Value Chains",Approach to Target Women Customers,Implementation,"Does the company conduct market research on the specific product and/or service needs
+of women and girls?",Dichotomous,Yes/No,,
+294,"Women-Powered
+Value Chains",Approach to Target Women Customers,Implementation,"Does the company develop products and/ or services that specifically target or meet the
+needs of women and girls?",Dichotomous,Yes/No,,
+295,"Women-Powered
+Value Chains",Approach to Target Women Customers,Implementation,"Does the company consider gender differences in access to products and/or services and
+subsequently changes distribution models to accommodates these differences?",Dichotomous,Yes/No,,
+296,"Women-Powered
+Value Chains",Approach to Target Women Customers,Implementation,"Does the company consult stakeholders and focus groups to continuously improve the
+design of products and services for women?",Dichotomous,Yes/No,,
+297,"Women-Powered
+Value Chains",Approach to Target Women Customers,Implementation,"Does the company have a systematic approach to gathering customer feedback and
+collecting customer information regarding gender? If so, does the company include
+customers’ gender information in its business performance analysis? ",Dichotomous,Yes/No,,
+298,"Women-Powered
+Value Chains",Approach to Target Women Customers,Implementation,"Is there a process to ensure advertisements of products and services provided by the com-
+pany do not discriminate against men and women?",Dichotomous,Yes/No,,
+299,"Women-Powered
+Value Chains",Approach to Target Women Customers,Implementation,Is there a different pricing strategy for men and women customers?,Dichotomous,Yes/No,,
+300,"Women-Powered
+Value Chains",Approach to Target Women Customers,Implementation,"Does the company consider gender aspects of its customers when designing or offering
+new products and services (e.g., size, design)?",Dichotomous,Yes/No,,
+301,"Women-Powered
+Value Chains",Approach to Target Women Customers,Implementation,Does the company employ women sales agents?,Dichotomous,Yes/No,,
+302,"Women-Powered
+Value Chains",Approach to Target Women Customers,Implementation,Does the company employ women customer relations agents?,Dichotomous,Yes/No,,
+303,"Women-Powered
+Value Chains",Approach to Target Women Customers,Implementation,"Does the company provide training on unconscious biases for employees who have direct
+exposure to customers?",Dichotomous,Yes/No,,
+304,"Women-Powered
+Value Chains",Approach to Target Women Customers,Measurement,"Does the company conduct customer service to verify the availability and function of products
+and services to fulfill their unmet needs?",Dichotomous,Yes/No,,
+305,"Women-Powered
+Value Chains",Approach to Target Women Customers,Measurement,"Does the company track the number of marketing complaints that relate to gender stereotyping
+or negative portrayals of women?",Dichotomous,Yes/No,,
+306,"Women-Powered
+Value Chains",Approach to Target Women Customers,Measurement,"Does the company track segmented customer data to understand women's spending
+patterns and needs?",Dichotomous,Yes/No,,
+307,"Women-Powered
+Value Chains",Approach to Target Women Customers,Measurement,Does the company track the revenue and profit generated by women customers?,Dichotomous,Yes/No,,
+308,"Women-Powered
+Value Chains",Approach to Target Women Customers,Accountability and Transparency,"Does the company communicate publicly to company stakeholders its commitment to
+ensuring products and services are developed with the needs of women and men in mind?",Dichotomous,Yes/No,,
+309,"Women-Powered
+Value Chains",Approach to Target Women Customers,Accountability and Transparency,"Does the company communicate to the Board of Directors its commitment to ensuring
+products and services are developed with the needs of women and men in mind?",Dichotomous,Yes/No,,
+310,"Women-Powered
+Value Chains",Approach to Target Women Customers,Accountability and Transparency,"Does the company communicate publicly to company stakeholders its commitment not to
+perpetuate gender stereotypes? Is there an easily accessible communication channel for
+the public to provide feedback and report incidences where stereotypes are perceived to
+be perpetuated?",Dichotomous,Yes/No,,
+311,"Women-Powered
+Value Chains",Approach to Target Women Customers,Accountability and Transparency,"Does the company communicate to the Board of Directors its commitment to not perpetu-
+ate gender stereotypes?",Dichotomous,Yes/No,,
+312,"Women-Powered
+Value Chains",Approach to Target Women Customers,Accountability and Transparency,"Does the company conduct regular audits and product testing to make sure products and
+services meet the specific needs of women and men?",Dichotomous,Yes/No,,
+313,"Women-Powered
+Value Chains",Approach to Target Women Customers,Accountability and Transparency,"Does the company have processes in place to make sure corrective action is taken when
+new information suggests products and services do not sufficiently meet the needs of
+women or perpetuate stereotypes?",Dichotomous,Yes/No,,
+314,"Women-Powered
+Value Chains",Women in Procurement,Ratio of no. of women in procurement,End of Year Number of Women Employees in Procurement,User_Input,Integer,,
+315,"Women-Powered
+Value Chains",Women in Procurement,Ratio of no. of women in procurement,End of Year Number of Total Employees in Procurement,User_Input,Integer,,
+316,"Women-Powered
+Value Chains",Women in Marketing and Product Design,Ratio of women employees in marketing and product design,End of Year Number of Women Employees in Marketing & Product Design,User_Input,Integer,,
+317,"Women-Powered
+Value Chains",Women in Marketing and Product Design,Ratio of women employees in marketing and product design,End of Year Number of Total Employees in Marketing & Product Design,User_Input,Integer,,
